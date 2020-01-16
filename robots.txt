@@ -1,9 +1,5 @@
-# Group 1
-User-agent: Googlebot
-Disallow: /
-
-# Group 2
 User-agent: *
 Allow: /
+Disallow: /private/
 
 Sitemap: https://www.wavedigital.it/sitemap.xml
