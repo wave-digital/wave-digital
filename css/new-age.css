@@ -10,12 +10,16 @@ body {
   height: 100%;
 }
 
+#privacy{
+  margin-top: 10%;
+}
+
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
 
 a {
-  color: #fdcc52;
+  color: white;
   transition: all .35s;
 }
 
@@ -73,6 +77,7 @@ section h2 {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
+  font-size: 1.5rem;
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
@@ -86,7 +91,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav > li > a {
-  font-size: 11px;
+  font-size: 13px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
   text-transform: uppercase;
