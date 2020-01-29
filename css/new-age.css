@@ -449,3 +449,12 @@ b {
 .image-cms{
   width: 100%;
 }
+
+.img-cms{
+  width: 70%;
+}
+
+.frase {
+  background-image: url("../img/blu-viola.png");
+  height: 40%;
+}
