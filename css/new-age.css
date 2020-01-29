@@ -187,7 +187,7 @@ header.masthead .device-container .screen img {
 
 @media (min-width: 992px) {
   header.masthead {
-    height: 100vh;
+    height: 70vh;
     min-height: 775px;
     padding-top: 0;
     padding-bottom: 0;
@@ -435,4 +435,17 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+span.web-agency{
+  color: #7b4397;
+}
+
+b {
+  font-weight: 900;
+  color: #7b4397;
+}
+
+.image-cms{
+  width: 100%;
 }
