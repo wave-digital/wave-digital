@@ -1,70 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!--Url Extract: 11-->
-  <url>
-    <loc>https://www.wavedigital.it/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>always</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.wavedigital.it/siti-internet-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.wavedigital.it/seo-agency-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.wavedigital.it/web-marketing-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.wavedigital.it/privacy/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>http://www.wavedigital.it/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.wavedigital.it/privacy.html</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.wavedigital.it/siti-internet-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.wavedigital.it/seo-agency-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.wavedigital.it/web-marketing-verona/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.wavedigital.it/privacy/</loc>
-    <lastmod>2020-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://www.wavedigital.it/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/siti-internet-verona/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/seo-agency-verona/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/web-marketing-verona/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/pubblicita-facebook-verona/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/siti-internet-per-b&amp;b/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/siti-internet-per-ristoranti/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/siti-internet-per-pizzerie/</loc>
+</url>
+<url>
+<loc>https://www.wavedigital.it/creazione-gestionali-verona/</loc>
+</url>
 </urlset>
